@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?color=%2B2D42&center=true&vCenter=true&lines=Bienvenido+a+mi+mural+de+GitHub;%3C3"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?color=%0F52BA&center=true&vCenter=true&lines=Bienvenido+a+mi+mural+de+GitHub;%3C3"></a>
 </p>
 
 ---
