@@ -19,9 +19,9 @@
 
 
 <p align="center" style="max-width: 700px; margin: auto; color: #0D47A1; font-weight: 500;">
-  Soy <strong>MDR_Code</strong>, un desarrollador web full stack autodidacta y apasionado. Trabajo tanto en el desarrollo <strong>frontend</strong> como en el <strong>backend</strong>, construyendo soluciones funcionales, limpias y eficientes. <br><br>
-  Me encanta resolver problemas, enfrentar nuevos retos y mejorar constantemente mis habilidades. Tengo experiencia en desarrollo web, estructuras de datos, algoritmos, programación orientada a objetos, sistemas operativos y gestión de bases de datos. <br><br>
-  ¿Necesitas un sitio web, una app o automatizar procesos para tu negocio? Estoy aquí para ayudarte.
+  Soy <strong>MDR_Code</strong>, una desarrolladora web full stack autodidacta y apasionada. Trabajo tanto en el desarrollo <strong>frontend</strong> como en el <strong>backend</strong>, construyendo soluciones funcionales, limpias y eficientes. <br><br>
+  Me encanta resolver problemas, enfrentar nuevos retos y mejorar constantemente mis habilidades. <br><br>
+
 </p>
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1FmETGZMFZ/)
