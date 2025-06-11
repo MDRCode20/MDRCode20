@@ -1,7 +1,7 @@
 
 <p align="center">
 <a href="">
-  <img src="https://readme-typing-svg.herokuapp.com?color=008080&center=true&vCenter=true&lines=Bienvenido+a+mi+mural+de+GitHub;%5C5">
+  <img src="https://readme-typing-svg.herokuapp.com?color=008080&center=true&vCenter=true&lines=Bienvenido+a+mi+mural+de+GitHub;%3C3">
 </a>
 </p>
 
