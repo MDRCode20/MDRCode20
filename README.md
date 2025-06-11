@@ -1,6 +1,8 @@
 
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?color=%333399&center=true&vCenter=true&lines=Bienvenido+a+mi+mural+de+GitHub;%3C3"></a>
+<a href="">
+  <img src="https://readme-typing-svg.herokuapp.com?color=008080&center=true&vCenter=true&lines=Bienvenido+a+mi+mural+de+GitHub;%3C3">
+</a>
 </p>
 
 ---
@@ -18,7 +20,7 @@
 
 
 
-<p align="center" style="max-width: 700px; margin: auto; color: #0D47A1; font-weight: 500;">
+<p align="center" style="max-width: 700px; margin: auto; color: #0F52BA; font-weight: 500;">
   Soy <strong>MDR_Code</strong>, una desarrolladora web full stack autodidacta y apasionada. Trabajo tanto en el desarrollo <strong>frontend</strong> como en el <strong>backend</strong>, construyendo soluciones funcionales, limpias y eficientes. <br><br>
   Me encanta resolver problemas, enfrentar nuevos retos y mejorar constantemente mis habilidades. <br><br>
 
