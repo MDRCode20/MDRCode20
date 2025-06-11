@@ -1,7 +1,7 @@
 
 <p align="center">
 <a href="">
-  <img src="https://readme-typing-svg.herokuapp.com?color=008080&center=true&vCenter=true&lines=Bienvenido+a+mi+mural+de+GitHub;%3C3">
+  <img src="https://readme-typing-svg.herokuapp.com?color=008080&center=true&vCenter=true&lines=Bienvenido+a+mi+mural+de+GitHub;%5C5">
 </a>
 </p>
 
@@ -25,7 +25,6 @@
   Me encanta resolver problemas, enfrentar nuevos retos y mejorar constantemente mis habilidades. <br><br>
 
 </p>
----
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1FmETGZMFZ/)
 [![TikTok](https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white)](http://tiktok.com/@mdr_code)
